@@ -1,0 +1,23 @@
+{
+  "name": "mykeployapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoumyadeepOSD/MyKeployAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoumyadeepOSD/MyKeployAPI/issues"
+  },
+  "homepage": "https://github.com/SoumyadeepOSD/MyKeployAPI#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
